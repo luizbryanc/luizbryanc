@@ -1,8 +1,8 @@
 ### Hi, I'm Bryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-💻 Estudante em Análise de Desenvolvimento de Sistemas
+💻 Estudante | Análise e Desenvolvimento de Sistemas 
 
-👨‍💻 Atualmente trabalho com suporte a sistemas
+👨‍💻 Trabalho | Suporte a Sistemas 
 
 🌎 Gosto de aprender coisas novas
 
@@ -10,7 +10,7 @@
 
 🧭 Iniciante na carreira dev, voltado à área de Front-End
 
-
+✨ INFJ-T
 
 <div align="center">
   <a href="https://github.com/luizbryanc">
