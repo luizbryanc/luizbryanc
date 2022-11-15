@@ -6,7 +6,7 @@
 
 🌎 Gosto de aprender coisas novas
 
-🚩 Aprendo de uma forma rápida, e não desisto
+🚩 Aprendo de uma forma rápida
 
 🧭 Iniciante na carreira dev, voltado à área de Front-End
 
